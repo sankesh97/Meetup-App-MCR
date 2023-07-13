@@ -97,6 +97,7 @@ const EventSingle = () => {
                   </div>
                 ))}
               </div>
+              <button className='btn btn-danger red-color-bg mt-5'>RSVP</button>
             </>
           </div>
         </div>
